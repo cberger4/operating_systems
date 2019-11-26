@@ -5,6 +5,7 @@
  #include <unistd.h>
  #include <netdb.h>
  #include <pthread.h>
+ //this is a comment from chris berger
 
  void* echo(void* arg)
  {
